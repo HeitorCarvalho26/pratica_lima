@@ -1,0 +1,25 @@
+body {
+    background-image: url(../images/windows11-default-wallpaper-scaled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: "Segoe UI", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:720px; 
+    width: 1280px;       
+    margin: 0;
+    flex-direction: column;
+    backdrop-filter: blur(15px);
+}
+
+img {
+    height: 100px;
+    border-radius: 50%;
+}
+
+input[type=password]
+label {
+    margin-top: 1rem;
+}

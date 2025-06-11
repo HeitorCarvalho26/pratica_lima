@@ -1,0 +1,21 @@
+body {
+    background-image: url(../images/windows11-alt1-wallpaper.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: "Segoe UI", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 720px;
+    width: 1280px;
+    margin: 0;
+    flex-direction: column;
+}
+
+img {
+    height: 100px;
+    scale: 0.46;
+    weight: flex;
+    position: bottom;
+}
