@@ -1,0 +1,16 @@
+body {
+    background-color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.erro {
+    color: white;
+    text-align: center;
+    display: flex;
+    text-align: left;
+
+}
+
+.erro pre {
+    font-size: 20px;
+}

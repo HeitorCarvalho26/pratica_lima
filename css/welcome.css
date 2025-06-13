@@ -2,7 +2,7 @@ body {
     background-image: url(../images/windows11-default-wallpaper-scaled.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family: "Segoe UI", sans-serif;
     display: flex;
     justify-content: center;
@@ -24,4 +24,9 @@ body {
     font-size: 24px;
     color: #ffffff;
     margin-top: 10px;
+}
+
+.tela-surgente{
+    opacity: 0;
+    animation: surgir 3s ease-in-out forwards;
 }

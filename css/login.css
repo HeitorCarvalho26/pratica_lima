@@ -9,7 +9,7 @@ body {
     align-items: center;
     height:720px; 
     width: 1280px;       
-    margin: 0;
+    margin: 0;  
     flex-direction: column;
     backdrop-filter: blur(15px);
 }

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div {
+            width: 200px;
+            height: 200px;
+            background-color: blue;
+            animation-name: animacao;
+            animation-duration: 4s;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+            position: relative;
+        }
+
+        @keyframes animacao {
+            0% {
+                background-color: blue;
+                left: 0px;
+                top: 0px;
+            }
+
+            25% {
+                background-color: green;
+                left: 300px;
+                top: 300px;
+                border-radius: 50%;
+            }
+
+            50% {}
+
+            75% {
+                background-color: yellow;
+                left: 700px;
+                top: 300px;
+                border-radius: 50%;
+            }
+
+            100% {
+                background-color: red;
+                left: 1000px;
+                top: 0px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div></div>
+</body>
+
+</html>
