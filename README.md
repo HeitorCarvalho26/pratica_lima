@@ -1,4 +1,7 @@
-# pratica_lima
-Repositorio modelo para a prática das linguagens de marcação HTML e CSS
+💻 Projeto de Interface — Windows 11 em HTML e CSS
+Este projeto é uma reprodução visual das telas iniciais do sistema operacional Windows 11 utilizando apenas HTML e CSS puros, sem uso de JavaScript ou bibliotecas externas. A proposta foi recriar com fidelidade e atenção aos detalhes telas como o booting (inicialização), lock screen (tela de bloqueio), desktop principal, e até mesmo a famosa BSOD (Blue Screen of Death). É um exercício que explora a versatilidade do CSS na construção de interfaces realistas, e ao mesmo tempo reforça boas práticas de organização e estruturação do HTML.
 
-[Acesse aqui a página inicial do porjeto]https://heitorcarvalho26.github.io/pratica_lima/Boot_Screen.html
+Mais do que apenas uma cópia visual, o projeto tem como foco a experimentação criativa com marcação e estilo, simulando animações e transições que trazem vida à interface. Cada tela foi cuidadosamente montada para se aproximar da experiência real do sistema, sendo também uma ótima base para estudos de responsividade, camadas de elementos, pseudo-elementos e manipulação de fontes e ícones.
+
+Esse repositório faz parte do meu portfólio como desenvolvedor front-end e reflete meu interesse em design de interfaces, pixel-perfect e desenvolvimento web com foco em fidelidade visual. Sinta-se à vontade para clonar, explorar ou contribuir com ideias. 👨‍💻✨
+[Acesse aqui a página inicial do porjeto](https://heitorcarvalho26.github.io/pratica_lima/Boot_Screen.html)
